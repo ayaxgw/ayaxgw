@@ -1,8 +1,5 @@
-### Hola 👋, mi nombre es Ayax
-
-#### Estudiante de por vida en programación
-![Estudiante de por vida en programación](https://i.redd.it/vxb5lk0zxra71.png)
-
+### Hola 👋, mi nombre es Ayax!
+_________________________________________________________________________________________________
 Actualmente me encuentro realizando la carrera de Analista Universitario en Sistemas en IPS. Cuento con distintas aptitudes en el ámbito de la programación gracias a los cursos que he realizado.
 
 Habilidades: PYTHON//DJANGO//GIT//GITHUB 🚀

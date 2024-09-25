@@ -1,6 +1,6 @@
 ### Hola 👋, mi nombre es Ayax!
 _________________________________________________________________________________________________
-Actualmente me encuentro realizando la carrera de Analista Universitario en Sistemas en IPS. Cuento con distintas aptitudes en el ámbito de la programación gracias a los cursos que he realizado.
+Actualmente me encuentro realizando la Tecnicatura en Inteligencia Artificial en la FCEIA. Cuento con distintas aptitudes en el ámbito de la programación gracias a los cursos que he realizado.
 
 Habilidades: PYTHON//DJANGO//GIT//GITHUB 🚀
 
